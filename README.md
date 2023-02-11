@@ -37,6 +37,7 @@ Please feel free to contact me if you have any questions or would like to see my
 
 # Links
 LinkedIn - https://www.linkedin.com/in/davit-kikaleishvili-aa72b6256/
+
 Indeed - https://my.indeed.com/resume?hl=en_US&co=US&from=gnav-homepage
 
 
