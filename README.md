@@ -33,7 +33,7 @@ My code is available for review on my GitHub profile: [https://github.com/data11
 
 If you are looking for a hard-working, dedicated, and innovative front-end developer, look no further! I am eager to bring my skills and expertise to a dynamic and fast-paced work environment.
 
-Please feel free to contact me if you have any questions or would like to see my portfolio. I look forward to hearing from you! 💬
+Please feel free to contact me if you have any questions or would like to see my portfolio. I look forward to hearing from you! (davitkikaleishvili551@gmail.com)💬
 
 # Links
 LinkedIn - https://www.linkedin.com/in/davit-kikaleishvili-aa72b6256/
