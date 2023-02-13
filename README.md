@@ -27,7 +27,7 @@ Here are a few of my notable projects:
 3.  💻 Project Name:  [Java-Login-Registration-form](https://github.com/data111a/Java-Login-Registration-form)
     -   Description: Developed a Java-based login/registration form using MySQL database.
     -   Key features: MySQL database connection, Java servlet, OOP. 
-4.  💻 Project Name:  [Meditation app]([https://github.com/data111a/Java-Login-Registration-form](https://github.com/data111a/Responsive-MeditationApp/tree/master/actives))
+4.  💻 Project Name:  [Responsive-MeditationApp](https://github.com/data111a/Responsive-MeditationApp)
     -   Description: Fully responsive web application to help you to meditate
     -   Key features: DOM manipulation, CSS Media Queries. 
 #
