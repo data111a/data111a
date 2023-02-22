@@ -21,9 +21,9 @@ Here are a few of my notable projects:
 1.  💻 Project Name: [tracckerGiraffe](https://github.com/data111a/tracckerGiraffe)
     -   Description: Built a dynamic and responsive chrome extension using JavaScript, HTML, and CSS.
     -   Key features: Chrome API, Data store in localStorage.
-2.  💻 Project Name: [Python---Password-generator](https://github.com/data111a/Python---Password-generator)
-    -   Description: Created a simple script to generate random password. 
-    -   Key features: Used Python to generate some random passwords using inputted length of password
+2.  💻 Project Name: [Meme-generator](https://github.com/data111a/Meme-generator))
+    -   Description: Created a simple script to generate random memes with fun background. 
+    -   Key features: Fetch API, DOM manipulation, CSS Media Queries.
 3.  💻 Project Name:   [Login-Registration-webPage](https://github.com/data111a/Login-Registration-webPage)
     -   Description: Dynamic logind and registration web page.
     -   Key features: Vanilla js, CSS. 
