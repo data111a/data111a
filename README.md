@@ -24,9 +24,9 @@ Here are a few of my notable projects:
 2.  💻 Project Name: [Meme-generator](https://github.com/data111a/Meme-generator))
     -   Description: Created a simple script to generate random memes with fun background. 
     -   Key features: Fetch API, DOM manipulation, CSS Media Queries.
-3.  💻 Project Name:   [Login-Registration-webPage](https://github.com/data111a/Login-Registration-webPage)
+3.  💻 Project Name: [Login-Registration-web app](https://github.com/data111a/Java-JavaScript-login-form)
     -   Description: Dynamic logind and registration web page.
-    -   Key features: Vanilla js, CSS. 
+    -   Key features: Java Servlets, DOM Manipulation, SQL Connection. 
 4.  💻 Project Name:  [Responsive-MeditationApp](https://github.com/data111a/Responsive-MeditationApp)
     -   Description: Fully responsive web application to help you to meditate
     -   Key features: DOM manipulation, CSS Media Queries. 
