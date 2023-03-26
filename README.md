@@ -30,6 +30,9 @@ Here are a few of my notable projects:
 4.  💻 Project Name:  [Responsive-MeditationApp](https://github.com/data111a/Responsive-MeditationApp)
     -   Description: Fully responsive web application to help you to meditate
     -   Key features: DOM manipulation, CSS Media Queries. 
+5.  💻 Project Name:  [React calculator app]([https://github.com/data111a/Responsive-MeditationApp](https://data111a.github.io/React-calculator/))
+    -   Description: Fully responsive web calculator application.
+    -   Key features: React custom components, CSS, React reducer hook. 
 #
 My code is available for review on my GitHub profile: [https://github.com/data111a]. Feel free to take a look and see my commitment to clean, organized, and well-documented code.
 
