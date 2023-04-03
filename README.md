@@ -5,12 +5,13 @@ I am from Georgia, I am a skilled front-end developer with expertise in the foll
 
 # Skills
 
--    HTML
+-    HTML5
 -    CSS
--   JavaScript
+-    JavaScript
 -    Java
--    Python
+-    Python(basics)
 -    Networking Basics
+-    React
 
 #
 I am constantly learning and expanding my skills, always striving to stay up-to-date with the latest technologies.
