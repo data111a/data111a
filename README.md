@@ -34,7 +34,7 @@ Here are a few of my notable projects:
 5.  💻 Project Name:  [React calculator app](https://data111a.github.io/React-calculator/)
     -   Description: Fully responsive web calculator application.
     -   Key features: React custom components, CSS, React reducer hook. 
-6.  💻 Project Name:  [React Quiz appa](https://data111a.github.io/React-Quiz-App/)
+6.  💻 Project Name:  [React Quiz app](https://data111a.github.io/React-Quiz-App/)
     -   Description: Fully responsive React quiz application.
     -   Key features: React custom components, API, CSS, React hooks. 
 7.  💻 Project Name:  [React Meal Recipe appa](https://data111a.github.io/React-Meal-Recipe-App/)
