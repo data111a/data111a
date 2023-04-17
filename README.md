@@ -37,6 +37,9 @@ Here are a few of my notable projects:
 6.  💻 Project Name:  [React Quiz app](https://data111a.github.io/React-Quiz-App/)
     -   Description: Fully responsive React quiz application.
     -   Key features: React custom components, API, CSS, React hooks. 
+6.  💻 Project Name:  [React recipe app](https://data111a.github.io/React-recipe-app/)
+    -   Description: Fully responsive React recipe app, using routes and free meal API.
+    -   Key features: React routing, fetch API, styled components, React hooks. 
 
 #
 My code is available for review on my GitHub profile: [https://github.com/data111a]. Feel free to take a look and see my commitment to clean, organized, and well-documented code.
