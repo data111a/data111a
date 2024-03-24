@@ -5,10 +5,9 @@ I am from Georgia, I am a skilled front-end developer with expertise in the foll
 
 # Skills
 
--    React
--    JvasScript (ES6+)
--    Context API
--    React-router-dom
+-    React.js
+-    Node.js
+-    Express.js
 -    HTML5/CSS
 -    Java (basics)
 -    Python(basics)
