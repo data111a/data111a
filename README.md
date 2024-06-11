@@ -8,6 +8,7 @@ I am from Georgia, I am a skilled front-end developer with expertise in the foll
 -    React.js
 -    Node.js
 -    Express.js
+-    JWT
 -    HTML5/CSS
 -    Java (basics)
 -    Python(basics)
@@ -39,7 +40,10 @@ Here are a few of my notable projects:
     -   Key features: React custom components, API, CSS, React hooks. 
 6.  💻 Project Name:  [React recipe app](https://data111a.github.io/React-recipe-app/)
     -   Description: Fully responsive React recipe app, using routes and free meal API.
-    -   Key features: React routing, fetch API, styled components, React hooks. 
+    -   Key features: React routing, fetch API, styled components, React hooks.
+7.  💻 Project Name:  [Fullstack Forum App]([https://data111a.github.io/React-recipe-app/](https://data111a.github.io/Forum_frontend)
+    -   Description: I have build fullstack forum app using express.js, JWT, WebSocket and React.js for frontend.
+    -   Key features: Routing, API, WebSocket, Express.js, JWT. 
 
 #
 My code is available for review on my GitHub profile: [https://github.com/data111a]. Feel free to take a look and see my commitment to clean, organized, and well-documented code.
