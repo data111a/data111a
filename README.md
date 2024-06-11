@@ -1,6 +1,6 @@
-#  Davit Kikaleishvili - Front-End Developer
+#  Davit Kikaleishvili - Fullstack Web Developer
 
-I am from Georgia, I am a skilled front-end developer with expertise in the following technologies
+I am from Georgia, I am a self-taught Fullstack Web developer. In my projects I have used : 
 
 
 # Skills
