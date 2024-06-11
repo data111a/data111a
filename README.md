@@ -41,7 +41,7 @@ Here are a few of my notable projects:
 6.  💻 Project Name:  [React recipe app](https://data111a.github.io/React-recipe-app/)
     -   Description: Fully responsive React recipe app, using routes and free meal API.
     -   Key features: React routing, fetch API, styled components, React hooks.
-7.  💻 Project Name:  [Fullstack Forum App]([https://data111a.github.io/React-recipe-app/](https://data111a.github.io/Forum_frontend)
+7.  💻 Project Name:  [Fullstack Forum App](https://data111a.github.io/Forum_frontend)
     -   Description: I have build fullstack forum app using express.js, JWT, WebSocket and React.js for frontend.
     -   Key features: Routing, API, WebSocket, Express.js, JWT. 
 
